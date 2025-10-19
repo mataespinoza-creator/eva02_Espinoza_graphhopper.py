@@ -10,5 +10,12 @@ El objetivo del proyecto es aplicar el uso de APIs y servicios de geolocalizaci�
 
 ## Instrucciones de ejecución
 1. descargar eva02_Espinoza_graphhopper.py
-2. Ejecutar el script en visual studio
-   
+2. pip install requests
+3. Ejecutar el script en visual studio
+4. El programa solicitará:
+Dirección de origen (por ejemplo, tu casa).
+Dirección de destino (por ejemplo, tu sede Duoc UC).
+5.Luego mostrará:
+Distancia total y tiempo estimado (con dos decimales).
+Instrucciones de viaje en español paso a paso.
+6.Puedes salir en cualquier momento escribiendo:salir
